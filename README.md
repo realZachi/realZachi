@@ -15,7 +15,7 @@ Currently, I'm working on an ambitious project aimed at bridging the gap between
 
 ## 📱 Apps
 
-### Qada Mate [App Store](https://apps.apple.com/de/app/qada-mate/id1672815361?l=de) | [Google Play](https://play.google.com/store/apps/details?id=de.mahmoud.qada&hl=de&gl=US)
+### Qada Mate 🍎 [App Store](https://apps.apple.com/de/app/qada-mate/id1672815361?l=de) | 🤖 [Google Play](https://play.google.com/store/apps/details?id=de.mahmoud.qada&hl=de&gl=US)
 - A top 20 ranked app for iOS and Android
 - Built using React Native
 
