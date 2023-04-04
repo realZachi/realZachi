@@ -15,13 +15,20 @@ Currently, I'm working on an ambitious project aimed at bridging the gap between
 
 ## 📱 Apps
 
-### Qada Mate
+### Qada Mate [App Store](https://apps.apple.com/de/app/qada-mate/id1672815361?l=de) | [Google Play](https://play.google.com/store/apps/details?id=de.mahmoud.qada&hl=de&gl=US)
 - A top 20 ranked app for iOS and Android
 - Built using React Native
-- [App Store](https://apps.apple.com/de/app/qada-mate/id1672815361?l=de)
-- [Google Play](https://play.google.com/store/apps/details?id=de.mahmoud.qada&hl=de&gl=US)
 
-## 🚀 Projects
+### Craftman Connect
+- An app for the craft industry to store, forward, and process orders
+- Streamlining operations and communication for craftsmen
+
+### Alibaba-like App
+- An in-progress app to connect Turkey and Europe
+- Leveraging the power of Flutter
+
+
+## 🚀 Currently worked on projects
 
 ### Alibaba-like App
 - Aiming to bridge the gap between Turkey and Europe
