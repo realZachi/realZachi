@@ -1,24 +1,17 @@
-# Hi there, I'm Mahmoud! 👋
+# Hello, I'm [Your Name]! 👋
 
-I'm a passionate Java Developer with 2 years of experience building web services and RESTful applications. Recently, I've been exploring the world of mobile development using React Native and Flutter, and I've even managed to create a top 20 ranked app for iOS and Android, called Qada Mate! 🌟
+I'm a passionate software developer with 2 years of experience in Java, specializing in building web services and RESTful applications. I've spent the past year learning React Native, and am proud to have developed Qada Mate, a top 20 ranked app for iOS and Android. Recently, I've been diving into the world of Flutter, which has been an exciting journey so far. 
 
-Currently, I'm working on an exciting project similar to Alibaba, with the goal of bridging the gap between Turkey and Europe. I'm always eager to learn new technologies and enhance my skills.
+Currently, I'm working on an ambitious project aimed at bridging the gap between Turkey and Europe - an app inspired by Alibaba. I'm always eager to learn new technologies and strive to improve my skills every day.
 
-## 🛠️ Technologies & Tools
+## 🌱 My Skills & Expertise
 
-Here are the programming languages I've learned, ranked in order of my expertise:
-
-1. Java
-2. React Native
-3. Flutter
-4. React
-5. Python
-6. Lua
-
-## 🌱 Currently Learning
-
-- Advanced Flutter techniques
-- Backend development with Node.js and Express
+- **Java**: 2 years of experience building web services and RESTful applications
+- **React Native**: 1 year of experience, including the development of Qada Mate, a top 20 ranked app
+- **Flutter**: 2 months of experience and counting, actively learning and applying my skills to new projects
+- **React**: Proficient, with a focus on building user interfaces and single-page applications
+- **Python**: Familiar with the basics and interested in exploring more
+- **Lua**: Basic understanding and looking forward to expanding my knowledge
 
 ## 📱 Apps
 
