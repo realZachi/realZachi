@@ -25,6 +25,8 @@ Here are the programming languages I've learned, ranked in order of my expertise
 ### Qada Mate
 - A top 20 ranked app for iOS and Android
 - Built using React Native
+- [App Store](https://apps.apple.com/de/app/qada-mate/id1672815361?l=de)
+- [Google Play](https://play.google.com/store/apps/details?id=de.mahmoud.qada&hl=de&gl=US)
 
 ## 🚀 Projects
 
